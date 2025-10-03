@@ -1,8 +1,8 @@
 ---
 
-# Budget Arduino Projects
+## Budget Arduino Projects
 
-**A compilation of budget Arduino projects using a starter kit purchased online.** This repository contains several small Arduino projects designed to maximize learning while minimizing cost, making it ideal for hobbyists and beginners.
+A compilation of budget Arduino projects using a starter kit purchased online. This repository contains several small Arduino projects designed to maximize learning while minimizing cost, making it ideal for hobbyists and beginners.
 
 ---
 
