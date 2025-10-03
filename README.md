@@ -4,6 +4,7 @@
 
 A compilation of budget Arduino projects using a starter kit purchased online. This repository contains several small Arduino projects designed to maximize learning while minimizing cost, making it ideal for hobbyists and beginners.
 
+![](arduino-uno-uhd-wallpapers-4965-x-2666-v0-6oxtph48x9jb1.png)
 ---
 
 ## Features
